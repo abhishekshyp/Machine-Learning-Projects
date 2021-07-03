@@ -34,3 +34,9 @@ Run the beow command to send the request with some pre-popuated values -
 ```
 python request.py
 ```
+
+### Project Images
+
+<img src="https://1.bp.blogspot.com/-ZaoOmtoMOKw/YOCf-rcesnI/AAAAAAAAES4/VAIvMuXraks6CYPSymLulWQh1Nxj3mHQQCLcBGAsYHQ/w640-h298/Salary%2BPrediction%2B1.png" alt="salary prediction machine learning model">
+
+<img src="https://1.bp.blogspot.com/-sVDxUJaOEO0/YOCf-zzl8rI/AAAAAAAAES8/wFoItjhdqAgbF9i8yQGLiwlNycyDkC6zQCLcBGAsYHQ/w640-h298/Salary%2BPrediction%2B2.png" alt="salary prediction machine learning model project">
